@@ -6,6 +6,8 @@ Personal portfolio website hosted on GitHub Pages.
 
 [https://trucuit.github.io](https://trucuit.github.io)
 
+![Screenshot](screenshots/demo.png)
+
 ## 🛠️ Công nghệ
 
 - HTML / CSS / JavaScript
